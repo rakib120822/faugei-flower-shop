@@ -1,121 +1,84 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
+### Faugei Flower Shop
 
-### 📅 Deadline For 60 marks: 25th July, 2025 (11:59 pm ⏱️)
+Faugei Flower Shop is a static webpage built using HTML and CSS. The page is designed for a flower and plant e-commerce experience, providing an engaging interface to browse products, view deals, and connect with plant lovers.
 
-### 📅 Deadline For 50 marks: 26th July, 2025 (11:59 pm ⏱️)
+## Live Website: https://rakib120822.github.io/faugei-flower-shop/
 
-### 📅 Deadline For 30 marks:\*\* Any time after 26th July.
+### 📝 Project Overview
 
----
+Faugei Flower Shop is a static landing page that simulates an online flower and plant store.
+The design focuses on user-friendly navigation, product highlights, and aesthetic appeal for plant enthusiasts.
 
-## ✅ Main Requirements (50 Marks)
+### Sections included:
 
-### 1. Navbar
+Navbar for easy navigation
 
-- **Logo/Website name** on the left
-- **Menu items** on the right with **cart icon**
-- **Mobile Responsiveness:**
-  - Logo/website name on the left
-  - Cart icon with name on the right as Figma
-  - Other navbar elements will be hidden for cleaner mobile experience
+Banner to attract visitor attention
 
----
+Our Plant Cards with buttons to add items to a cart
 
-### 2. Banner
+Flower & Plants Lover Greetings section
 
-- **Image** on the right
-- **Title and paragraph** on the left
-- **Mobile Responsiveness:**
-  - Image moves to the top
-  - Content after image
-  - Content left aligned as Figma
+Latest Deals Cards to showcase promotions
 
----
+Footer with links and contact information
 
-### 3. Plants Section
+### 🛠️ Technologies Used
 
-- centered **Title and subtitle** as Figma
-- **8 cards with 4 Collumn View** with image, name, price, and Add to cart button
-- **Mobile Responsiveness:**
-  - Display Cards in 2 Collumn
+HTML5
+Tailwind CSS
+CSS3
 
----
+### ✨ Key Features
 
-### 4. Plants Lover Section
+Responsive navbar for easy navigation
 
-- **Image** on the left
-- **Title and unordered list** on the right as Figma
-- **Mobile Responsiveness:**
-  - Image moves to the top
-  - Content after image
-  - Content left aligned as Figma
+Eye-catching banner section
 
----
+Product cards for plants with "Add to Cart" buttons
 
-### 5. Join Section
+Section to greet plant and flower lovers
 
-- centered **Join the colorful Bunch** message
-- **Background image** in the full section like Figma
-- **Input box with placeholder** and **subscribe button** like Figma
-- **Mobile Responsiveness:** Responsive design like Figma
+Latest Deals cards highlighting offers
 
----
+Well-structured footer with links and contact info
 
-### 6. Footer Section
+Fully static and visually appealing layout
 
-- **Website logo** on the left
-- **Home, features link items** just like Figma
-- **Mobile Responsiveness:** Responsive design like Figma
 
----
+### 🚀 How to Use
 
-## 🧪 Challenges Part ( 10 Mark)
+Clone the repository:
 
-### Latest Deal Section
+git clone https://github.com/rakib120822/faugei-flower-shop.git
 
-- **Title and subtitles**
-- **Card layout** like Figma
-- **Mobile Responsiveness:** Show a card on display like Figma
 
----
+Navigate to the project folder:
 
-### Trusted Plant Lover Badge
+cd faugei-flower-shop
 
-- Position a Trusted badge at the **Plant Lover** Image as Figma
-- - **Mobile Responsiveness:** Hide the Trusted badge in Mobile Device
 
----
+Open index.html in a browser to view the webpage.
 
-## 🕛 Optional Part ( 0 Marks)
+### 🎯 Future Targets
 
-`⚠️ You wont get any support for Optional part. Search Google and try it yourself`
+Add JavaScript for interactive features such as:
 
-- Create an Animation for Trusted Plant Lover Badge
+Adding products to a cart dynamically
 
-  - It will Spin infinite times
+Product sliders or modals
 
-- Show an Alert with a message `"Flower Added to Cart"` when some one click on **Add to Cart** Button
+Implement additional pages:
 
-## ⚙️ Technology Stack
+Contact Us
 
-- HTML
-- CSS (Vanilla/ Talwind CSS only)
-- ⚠️ **No libraries (e.g., DaisyUI, Flowbite) allowed.**
+About Us
 
----
+Cart Page
 
-## 📌 Rules
+Enhance responsiveness and styling using frameworks like Tailwind CSS
 
-- ✅ Minimum **5 meaningful commits** required.
-- ❌ No Lorem Ipsum or dummy placeholder text. Use relevant content only.
+### 👨‍💻 Author
 
----
-
-## 🔗 What to Submit
-
-- 📂 **GitHub Repository:**
-- 🌐 **Live Link:**
-
----
-
-# Let's Code and Achieve your Dream 🎯
+Rakibul Islam Payel
+GitHub: https://github.com/rakib120822
